@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# AppointmentDatabase
-=======
+
 # AppointmentDatabase
 
 ## Installation Guide
@@ -15,4 +13,4 @@ Note. In order to run this component, node.js must be installed.
 ## Purpouse
 This component processes neat data from bookingRequestValidator component and stores the appointment data.
 
->>>>>>> 1c3f42c5421357ff707015b535239374c5430075
+
